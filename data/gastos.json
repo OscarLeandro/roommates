@@ -1,0 +1,10 @@
+{
+    "gastos": [
+        {
+            "id": "e1450cc7",
+            "roommate": "Ms Joana Schöne",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        }
+    ]
+}
